@@ -17,7 +17,6 @@ function formatUrl(url){
     url = url.substring(0, url.indexOf('/'));
   }
   
-  
   return url;
 }
 

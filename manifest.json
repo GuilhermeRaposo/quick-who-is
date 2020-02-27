@@ -1,12 +1,12 @@
 {
     "manifest_version": 2,
     "name": "Quick who is",
-    "version": "0.1",
+    "version": "0.2",
   
     "description": "Lets you quickly search whois for the current page and see if it's a legit page or scam/phishing",
   
     "icons": {
-      "48": "images/icon.png"
+      "128": "images/icon-128.png"
     },
   
     "permissions": [
@@ -22,7 +22,7 @@
 
     "browser_action": {
         "default_icon": {
-          "19": "images/icon.png"
+          "19": "images/icon-128.png"
         },
         "default_title": "Who is?",
         "default_popup": "popup.html"
